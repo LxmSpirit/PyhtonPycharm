@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../MCMG/MCMG-master/.idea/MCMG-master.iml" filepath="$PROJECT_DIR$/../../../MCMG/MCMG-master/.idea/MCMG-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../SMSBoom-master/.idea/SMSBoom-master.iml" filepath="$PROJECT_DIR$/../../../SMSBoom-master/.idea/SMSBoom-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/untitled.iml" filepath="$PROJECT_DIR$/.idea/untitled.iml" />
+    </modules>
+  </component>
+</project>
